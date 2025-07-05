@@ -1,5 +1,3 @@
-# IFB104-Assignment-1
+# Australian-Beef-Industry-Graph
 
-Python code for Assignment 1 of IFB104 Building IT Systems
-
-Use Turtle graphics python module to represent randomised datasets visually
+Uses the python module Turtle Graphics to visually display a randomised data set representing Australian Beef sales as a graph
